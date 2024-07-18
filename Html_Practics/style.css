@@ -4,5 +4,9 @@ body{
     color: rgb(93, 168, 49);
 }
 h1{
-    color: rgb(76, 78, 81); /*This will not because of inline css */
+    color: rgb(77, 170, 145); /*This will not because of inline css */
+}
+
+p{
+    color: rgb(95, 155, 207); /* this will work because there is no inline css*/
 }
