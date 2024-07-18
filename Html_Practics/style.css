@@ -1,0 +1,8 @@
+body{
+
+    background-color: antiquewhite;
+    color: cadetblue;
+}
+h1{
+    color: rgb(76, 78, 81); /*This will not because of inline css */
+}
