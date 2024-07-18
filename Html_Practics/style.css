@@ -1,7 +1,7 @@
 body{
-
+    /* This is not work because of Internal css */
     background-color: antiquewhite;
-    color: cadetblue;
+    color: rgb(93, 168, 49);
 }
 h1{
     color: rgb(76, 78, 81); /*This will not because of inline css */
