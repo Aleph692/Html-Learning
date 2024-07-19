@@ -1,12 +1,16 @@
-body{
+body {
     /* This is not work because of Internal css */
-    background-color: antiquewhite;
-    color: rgb(93, 168, 49);
-}
-h1{
-    color: rgb(77, 170, 145); /*This will not because of inline css */
+    background-color: rgb(107, 103, 97);
+    color: rgb(179, 183, 177);
 }
 
-p{
-    color: rgb(95, 155, 207); /* this will work because there is no inline css*/
+h1 {
+    color: rgb(77, 170, 145);
+    /*This will not because of inline css */
 }
+
+p {
+    color: rgb(95, 155, 207);
+    /* this will work because there is no inline css*/
+}
+
