@@ -1,11 +1,11 @@
 body {
     /* This is not work because of Internal css */
-    background-color: rgb(107, 103, 97);
-    color: rgb(179, 183, 177);
+    background-color: darkgray;
+    
 }
 
 h1 {
-    color: rgb(77, 170, 145);
+    /* color: rgb(77, 170, 145); */
     /*This will not because of inline css */
 }
 
